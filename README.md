@@ -36,7 +36,7 @@
       />
       <img
         src="https://github-readme-stats.vercel.app/api/pin/?username=padocit&repo=wave&theme=blue_navy"
-        alt="Pado Repository"
+        alt="Wave Repository"
         style="max-width: 100%;"
       />
     </a>
