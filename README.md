@@ -34,6 +34,7 @@
         alt="Pado Repository"
         style="max-width: 100%;"
       />
+    <a href="https://github.com/padocit/wave" target="_blank">
       <img
         src="https://github-readme-stats.vercel.app/api/pin/?username=padocit&repo=wave&theme=blue_navy"
         alt="Wave Repository"
