@@ -34,7 +34,4 @@
 <br>
 DX11, DX12, Unreal Engine
 
-<br />
-<br />
-<br />
-<br /><br /><br />
+<br /><br />
