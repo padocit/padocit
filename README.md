@@ -7,7 +7,7 @@
 
   <!-- 좌측 컬럼: Profile -->
   <div align="center" style="flex: 0 0 45%; max-width: 45%; margin-bottom: 1rem;">
-    <h3>🐯 Profile</h3>
+    <h3>🐯 PROFILE </h3>
     <p>
       <a href="https://github.com/haileeLog" target="_blank">
         <img
@@ -27,21 +27,24 @@
 
   <!-- 우측 컬럼: TOY PROJECT -->
   <div align="center" style="flex: 0 0 45%; max-width: 45%; margin-bottom: 1rem;">
-    <h3>👾 TOY PROJECT</h3>
+    <h3>👾 TOY PROJECTS</h3>
     <a href="https://github.com/padocit/pado" target="_blank">
       <img
         src="https://github-readme-stats.vercel.app/api/pin/?username=padocit&repo=pado&theme=blue_navy"
         alt="Pado Repository"
         style="max-width: 100%;"
       />
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=padocit&repo=wave&theme=blue_navy"
+        alt="Pado Repository"
+        style="max-width: 100%;"
+      />
     </a>
   </div>
-
 </div>
-<br>
-
 
 <p align="center">
+  <h3>🌟 STATS </h3>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=padocit&theme=blue_navy&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"
     alt="Top Languages"
