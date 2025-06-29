@@ -29,8 +29,8 @@
 
 
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padocit&theme=blue_navy&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padocit&theme=blue_navy&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=padocit&show_icons=true&theme=blue_navy&hide="/>
-
+</a>
 
 <br /><br />
