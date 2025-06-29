@@ -38,7 +38,7 @@
   </div>
 
 </div>
-
+<br>
 
 
 <p align="center">
@@ -51,5 +51,3 @@
     alt="GitHub Stats"
   />
 </p>
-
-<br /><br />
