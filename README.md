@@ -28,17 +28,9 @@
 <br />
 
 
-
 <div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padocit&theme=blue_navy&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=padocit&show_icons=true&theme=blue_navy&hide="/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padocit&theme=blue_navy&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
 
-
-
-### MAIN STACK🛠️
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a> 
-<br>
-DX11, DX12, Unreal Engine
 
 <br /><br />
