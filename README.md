@@ -36,7 +36,7 @@
       />
     <a href="https://github.com/padocit/bada" target="_blank">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=padocit&repo=wave&theme=blue_navy"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=padocit&repo=bada&theme=blue_navy"
         alt="Bada Repository"
         style="max-width: 100%;"
       />
