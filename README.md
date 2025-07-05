@@ -54,8 +54,10 @@
     src="https://github-readme-stats.vercel.app/api?username=padocit&show_icons=true&theme=blue_navy"
     alt="GitHub Stats"
   />
+  <a href="https://solved.ac/profile/l1lpado" target="_blank">
   <img
     src="http://mazassumnida.wtf/api/v2/generate_badge?boj=l1lpado"
     alt="solved.ac rank"
   />
+  </a>
 </p>
