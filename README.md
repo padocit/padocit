@@ -25,9 +25,27 @@
     <p>💙 <strong>Rendering Engineer</strong> <small>(2025.? ~ ) 💙</small></p>
   </div>
 
+  <!-- Now Focusing -->
+  <div align="center" style="flex: 0 0 45%; max-width: 45%; margin-bottom: 1rem;">
+    <h3>⏱️ NOW FOCUSING ON</h3>
+    <a href="https://github.com/padocit/PadoEngineDX11" target="_blank">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=padocit&repo=PadoEngineDX11&theme=blue_navy"
+        alt="PadoEngineDX11 Repository"
+        style="max-width: 100%;"
+      />
+    <a href="https://github.com/padocit/parang" target="_blank">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=padocit&repo=parang&theme=blue_navy"
+        alt="Parang Repository"
+        style="max-width: 100%;"
+      />
+    </a>
+  </div>
+      
   <!-- 우측 컬럼: TOY PROJECT -->
   <div align="center" style="flex: 0 0 45%; max-width: 45%; margin-bottom: 1rem;">
-    <h3>👾 TOY PROJECTS</h3>
+    <h3>🎯 GOALS</h3>
     <a href="https://github.com/padocit/pado" target="_blank">
       <img
         src="https://github-readme-stats.vercel.app/api/pin/?username=padocit&repo=pado&theme=blue_navy"
