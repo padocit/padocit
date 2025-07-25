@@ -28,10 +28,10 @@
   <!-- Now Focusing -->
   <div align="center" style="flex: 0 0 45%; max-width: 45%; margin-bottom: 1rem;">
     <h3>⏱️ NOW FOCUSING ON</h3>
-    <a href="https://github.com/padocit/ProtoD3D11Demo" target="_blank">
+    <a href="https://github.com/padocit/PadoEngineDX11" target="_blank">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=padocit&repo=ProtoD3D11Demo&theme=blue_navy"
-        alt="ProtoD3D11Demo Repository"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=padocit&repo=PadoEngineDX11&theme=blue_navy"
+        alt="PadoEngineDX11 Repository"
         style="max-width: 100%;"
       />
     <a href="https://github.com/padocit/parang" target="_blank">
