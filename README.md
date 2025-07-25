@@ -45,17 +45,29 @@
       
   <!-- 우측 컬럼: TOY PROJECT -->
   <div align="center" style="flex: 0 0 45%; max-width: 45%; margin-bottom: 1rem;">
-    <h3>🎯 GOALS</h3>
-    <a href="https://github.com/padocit/pado" target="_blank">
+    <h3>👾 TOYS</h3>
+      <a href="https://github.com/padocit/cuda-rtpt" target="_blank">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=padocit&repo=cuda-rtpt&theme=blue_navy"
+          alt="Cuda-rtpt Repository"
+          style="max-width: 100%;"
+        />
+      <a href="https://github.com/padocit/pado" target="_blank">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=padocit&repo=pado&theme=blue_navy"
+          alt="Pado Repository"
+          style="max-width: 100%;"
+        />
+    </a>
+  </div>
+
+  <!-- Collabor -->
+  <div align="center" style="flex: 0 0 45%; max-width: 45%; margin-bottom: 1rem;">
+    <h3>🧵 COLLB</h3>
+    <a href="https://github.com/padocit/HongLabTetris" target="_blank">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=padocit&repo=pado&theme=blue_navy"
-        alt="Pado Repository"
-        style="max-width: 100%;"
-      />
-    <a href="https://github.com/padocit/bada" target="_blank">
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=padocit&repo=bada&theme=blue_navy"
-        alt="Bada Repository"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=padocit&repo=HongLabTetris&theme=blue_navy"
+        alt="HongLabTetris Repository"
         style="max-width: 100%;"
       />
     </a>
