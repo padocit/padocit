@@ -24,34 +24,29 @@
     </p>
     <p>💙 <strong>Rendering Engineer</strong> <small>(2025.? ~ ) 💙</small></p>
   </div>
-
-  <!-- Now Focusing -->
-  <div align="center" style="flex: 0 0 45%; max-width: 45%; margin-bottom: 1rem;">
-    <h3>⏱️ NOW FOCUSING ON</h3>
-    <a href="https://github.com/padocit/ProtoD3D11Demo" target="_blank">
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=padocit&repo=ProtoD3D11Demo&theme=blue_navy"
-        alt="ProtoD3D11Demo Repository"
-        style="max-width: 100%;"
-      />
-    <a href="https://github.com/padocit/parang" target="_blank">
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=padocit&repo=parang&theme=blue_navy"
-        alt="Parang Repository"
-        style="max-width: 100%;"
-      />
-    </a>
-  </div>
       
   <!-- 우측 컬럼: TOY PROJECT -->
   <div align="center" style="flex: 0 0 45%; max-width: 45%; margin-bottom: 1rem;">
     <h3>👾 TOYS</h3>
+      <a href="https://github.com/padocit/ProtoD3D11Demo" target="_blank">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=padocit&repo=ProtoD3D11Demo&theme=blue_navy"
+          alt="ProtoD3D11Demo Repository"
+          style="max-width: 100%;"
+        />
       <a href="https://github.com/padocit/cuda-rtpt" target="_blank">
         <img
           src="https://github-readme-stats.vercel.app/api/pin/?username=padocit&repo=cuda-rtpt&theme=blue_navy"
           alt="Cuda-rtpt Repository"
           style="max-width: 100%;"
         />
+      <a href="https://github.com/padocit/bada" target="_blank">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=padocit&repo=bada&theme=blue_navy"
+          alt="Bada Repository"
+          style="max-width: 100%;"
+        />
+      </a>
       <a href="https://github.com/padocit/pado" target="_blank">
         <img
           src="https://github-readme-stats.vercel.app/api/pin/?username=padocit&repo=pado&theme=blue_navy"
