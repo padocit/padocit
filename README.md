@@ -15,10 +15,10 @@
           alt="GitHub"
         />
       </a>
-      <a href="https://velog.io/@padocit/posts" target="_blank">
+      <a href="https://padocit.tistory.com/" target="_blank">
         <img
-          src="https://img.shields.io/badge/Tech%20Blog-666666?style=for-the-badge&logo=velog&logoColor=FFFFFF"
-          alt="Velog"
+          src="https://img.shields.io/badge/Blog-666666?style=for-the-badge&logo=tistory&logoColor=FFFFFF"
+          alt="Tistory"
         />
       </a>
     </p>
